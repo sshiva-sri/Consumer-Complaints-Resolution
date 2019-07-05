@@ -20,4 +20,4 @@ After Logistic Regression Model, tried Decision Trees also did gave good perform
 
 Performance:
 ------------
-Final 
+Final roc_auc_score is 0.54.
