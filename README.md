@@ -6,3 +6,18 @@ Consumer complaint resolution is important to any business. In this particular c
 
 Initial proposal for solution:
 ------------------------------
+Built Logistic Regression model as the initial step colud not get good performance. 
+
+Problems Faced:
+---------------
+Problem was with the data preperation. Took much time to complete this.
+
+Experiments :
+-------------
+
+After Logistic Regression Model, tried Decision Trees also did gave good performance but the problem was over fitting. Went through Random Forest to overcome over fitting still did not get adequate performance. Finally XGBoost came to rescue.
+
+
+Performance:
+------------
+Final 
