@@ -6,7 +6,7 @@ Consumer complaint resolution is important to any business. In this particular c
 
 Initial proposal for solution:
 ------------------------------
-Built Logistic Regression model as the initial step colud not get good performance. 
+Built Logistic Regression model as the initial step could not get good performance. 
 
 Problems Faced:
 ---------------
@@ -20,4 +20,4 @@ After Logistic Regression Model, tried Decision Trees also did not,gave good per
 
 Performance:
 ------------
-Final roc_auc_score is 0.54.
+Final roc_auc_score is 0.61.
