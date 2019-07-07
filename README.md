@@ -15,7 +15,9 @@ Problem was with the data preperation. Took much time to complete this.
 Experiments :
 -------------
 
-After Logistic Regression Model, tried Decision Trees also did not,gave good performance but the problem was over fitting. Went through Random Forest to overcome over fitting still did not get adequate performance. Finally XGBoost came to rescue.
+After Logistic Regression Model, tried Decision Trees also did not,gave good performance but the problem was over fitting. 
+Went through Random Forest to overcome over fitting still did not get adequate performance. 
+Finally XGBoost came to rescue.
 
 
 Performance:
